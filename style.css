@@ -1,0 +1,45 @@
+.w-100{
+	border-radius: 5px;
+}
+body{
+	background-color: #a1a1a1;
+}
+.section__first{
+	margin-top: 20px;
+	font-family: 'Goldman', cursive;
+}
+.section__second{
+	padding-top: 70px;
+}
+.card{
+	border: 2px solid #2d344d;
+}
+.section__third{
+	margin-top: 30px;
+	background-color: #fff;
+	position: absolute;
+	background-color:#343a40;
+	color:#fff;
+	padding:5px;
+	width: 100%;
+}
+.gmail__link{
+	width: 60px;
+	height: 60px;
+}
+.telegram__link{
+	width: 60px;
+	height: 60px;
+}
+.facebook__link{
+	width: 60px;
+	height: 60px;
+}
+.instagram__link{
+	width: 60px;
+	height: 60px;
+}
+.link__text{
+	font-weight: bold;
+	font-size: 29px;
+}
