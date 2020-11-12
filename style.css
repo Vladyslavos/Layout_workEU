@@ -14,32 +14,32 @@ body{
 .card{
 	border: 2px solid #2d344d;
 }
-.section__third{
-	margin-top: 30px;
-	background-color: #fff;
-	position: absolute;
-	background-color:#343a40;
-	color:#fff;
-	padding:5px;
-	width: 100%;
+footer{
+	background-color: #212529;
+	color: #fff;
+	padding: 7px;
+	margin-top: 120px;
+	border-top: 3px double;
+}
+.location__topic{
+font-weight: bold;
+}
+.links__topic{
+font-weight: bold;
+}
+.whatsapp__link{
+width: 60px;
+height: 60px;
 }
 .gmail__link{
-	width: 60px;
-	height: 60px;
+width: 60px;
+height: 60px;
 }
 .telegram__link{
-	width: 60px;
-	height: 60px;
-}
-.facebook__link{
-	width: 60px;
-	height: 60px;
+width: 60px;
+height: 60px;
 }
 .instagram__link{
-	width: 60px;
-	height: 60px;
-}
-.link__text{
-	font-weight: bold;
-	font-size: 29px;
+width: 60px;
+height: 60px;
 }
