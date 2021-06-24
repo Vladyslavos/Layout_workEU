@@ -1,4 +1,4 @@
-# Layout_workEU
+<h1 align = "center">Simple Bootsrap project</h1>
 My first experience with Bootstrap.
 I made this layout using HTML/CSS and Bootstrap.
 <a href="https://vladyslavos.github.io/Layout_workEU/">LIVE</a>
