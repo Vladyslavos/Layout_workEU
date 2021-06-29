@@ -2,7 +2,7 @@
 
 <a href="https://vladyslavos.github.io/Layout_workEU/">LIVE</a><br>
 
-![WorkEU](https://user-images.githubusercontent.com/67589338/103177186-d31f7500-4880-11eb-9740-b620f1956211.png)
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/67589338/123794404-795d3d80-d8eb-11eb-9851-e8025b53f654.gif)
 
  <b>Technologies that I used:</b>
 <ul>
