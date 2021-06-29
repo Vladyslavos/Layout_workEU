@@ -1,4 +1,4 @@
-<h1 align = "center">Simple Bootsrap project</h1>
+<h1 align = "center">Simple Bootstrap project</h1>
 
 <a href="https://vladyslavos.github.io/Layout_workEU/">LIVE</a><br>
 
